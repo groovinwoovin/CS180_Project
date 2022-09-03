@@ -1,4 +1,4 @@
-# CS180 Simple Client/Server Connection
+# CS180 Client/Server Connection
 
 ## Directions
 
